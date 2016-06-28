@@ -1,2 +1,3 @@
-# PotaplanjeLadjic
-Potapljanje ladjic v Pythonu
+# PotaplanjebLadjic
+Potapljanje ladjic v Pythonu.
+Simpl!
